@@ -1,0 +1,5 @@
+1. Revenue analysis shows that a small number of top-performing products contribute a disproportionately large share of total sales, indicating a strong Pareto (80/20) effect.
+
+2. Category-wise revenue distribution reveals that certain product categories dominate overall sales, helping management prioritize inventory planning and promotional strategies.
+
+3. The presence of customers with no recorded orders highlights opportunities for targeted marketing and customer reactivation campaigns to improve conversion rates.
